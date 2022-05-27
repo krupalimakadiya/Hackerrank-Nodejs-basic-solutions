@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="8.0170" tests="4" failures="4">
+  <testsuite name="Root Suite" timestamp="2022-05-27T05:14:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="express_recipes_routes" timestamp="2022-05-27T05:14:11" tests="4" file="/projects/challenge/test/index.spec.js" time="8.0170" failures="4">
+    <testcase name="express_recipes_routes Should return 400 for /recipes/step/:id if id is not valid" time="2.0020" classname="Should return 400 for /recipes/step/:id if id is not valid">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)]]></failure>
+    </testcase>
+    <testcase name="express_recipes_routes Should respond with 0 if elapsed time is 0" time="2.0020" classname="Should respond with 0 if elapsed time is 0">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)]]></failure>
+    </testcase>
+    <testcase name="express_recipes_routes Should respond back with the correct step - 1" time="2.0020" classname="Should respond back with the correct step - 1">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)]]></failure>
+    </testcase>
+    <testcase name="express_recipes_routes Should respond back with the correct step - 2" time="2.0110" classname="Should respond back with the correct step - 2">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (/projects/challenge/test/index.spec.js)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
